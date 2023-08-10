@@ -1,0 +1,31 @@
+body{
+    margin: 25px;
+
+}
+
+.titulo_tabela_moda{
+    background-color: #BB86FC;;
+    color: white;
+
+    
+}
+
+.itens_tabela_moda{
+    background-color: #424250;
+    color: white;
+
+}
+
+.titulo_tabela_casa{
+    background-color: #00c4b4;
+    color: white;
+
+    
+}
+
+.itens_tabela_casa{
+    background-color: #424250;
+    color: white;
+
+}
+
